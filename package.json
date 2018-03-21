@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "name": "just-share-dont-buy-backend",
   "version": "1.0.0",
   "description": "",
@@ -22,5 +23,28 @@
   "dependencies": {
     "knex": "^0.14.4",
     "pg": "^7.4.1"
+=======
+  "name": "Just-Share-Dont-Buy-backend",
+  "version": "1.0.0",
+  "description": "•\tpseudo-code for OAuth:  \t•\thow it will work; explain strategies \t•\tsign-up / sign-in \t•\tthe Auth flow \t•\texpress setup \t•\troutes \t•\tstrategy setup \t•\tsecurity \t•\tredirects \t•\tsaving Auth user data \t•\tmake a user model \t•\tretrieving users \t•\tserializing & deserializing users \t•\tusing cookies \t•\tredirecting users \t•\tcreate profile view \t•\tlogging users out",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rscarlisle/Just-Share-Dont-Buy-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rscarlisle/Just-Share-Dont-Buy-backend/issues"
+  },
+  "homepage": "https://github.com/rscarlisle/Just-Share-Dont-Buy-backend#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+>>>>>>> Stashed changes
   }
 }
