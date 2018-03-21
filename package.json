@@ -1,0 +1,26 @@
+{
+  "name": "just-share-dont-buy-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "knex": "knex",
+    "latest": "knex migrate:latest",
+    "rollback": "knex migrate:rollback"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsonpf/Just-Share-Dont-Buy-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsonpf/Just-Share-Dont-Buy-backend/issues"
+  },
+  "homepage": "https://github.com/robsonpf/Just-Share-Dont-Buy-backend#readme",
+  "dependencies": {
+    "knex": "^0.14.4",
+    "pg": "^7.4.1"
+  }
+}
